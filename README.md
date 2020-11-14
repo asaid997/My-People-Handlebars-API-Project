@@ -1,6 +1,6 @@
 # My-People-Handlebars-API-Project
 My people project include the usage of handlebars as well as the Random User api
-https://randomuser.me/
+https://randomapi.com/
 
 api code consisting of:
 ```
