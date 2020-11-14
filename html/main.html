@@ -23,8 +23,8 @@
     <script id="person-template" type="text/x-handlebars-template">
           {{#each results}}
             <div class="people-container">
-                <p class="name text">{{people.name}}</p>
-                <p class="email text">{{people.email}}</p>
+                <p class="name text">{{name.first}} {{name.last}}</p>
+                <p class="email text">{{email}}</p>
             </div>
           {{/each}}
       </script>
