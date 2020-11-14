@@ -2,7 +2,7 @@
 My people project include the usage of handlebars as well as the Random User api
 https://randomuser.me/
 
-api consisting of:
+api code consisting of:
 ```
 var faker = require('faker'); // Faker.js
 
